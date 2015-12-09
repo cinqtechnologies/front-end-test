@@ -14,7 +14,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.core.env.Environment;
 
-@ComponentScan(basePackages = { "com.cinq.rh.jms" })
+@ComponentScan(basePackages = { "com.cinq.hr" })
 @EnableAutoConfiguration
 public class Application {
 
